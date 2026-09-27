@@ -1,0 +1,3133 @@
+{
+  "fields": [
+    {
+      "id": "f0001",
+      "type": "text",
+      "label": "Muhammad Taha — Graphic Designer",
+      "group": "Search appearance",
+      "default": "Muhammad Taha — Graphic Designer "
+    },
+    {
+      "id": "f0002",
+      "type": "text",
+      "label": "Branding Expert",
+      "group": "Search appearance",
+      "default": " Branding Expert"
+    },
+    {
+      "id": "f0003",
+      "type": "attribute",
+      "label": "Content: Independent graphic designer Muhammad Taha creates bran",
+      "group": "Search appearance",
+      "default": "Independent graphic designer Muhammad Taha creates brand identities, editorial design, educational publications, and digital experiences. Based in Punjab, working across borders."
+    },
+    {
+      "id": "f0004",
+      "type": "attribute",
+      "label": "Content: Muhammad Taha — Ideas into impact.",
+      "group": "Search appearance",
+      "default": "Muhammad Taha — Ideas into impact."
+    },
+    {
+      "id": "f0005",
+      "type": "attribute",
+      "label": "Content: Brand identity, editorial and digital design. Thoughtfu",
+      "group": "Search appearance",
+      "default": "Brand identity, editorial and digital design. Thoughtful design for brands, organizations and ideas."
+    },
+    {
+      "id": "f0006",
+      "type": "text",
+      "label": "Skip to content",
+      "group": "General",
+      "default": "Skip to content"
+    },
+    {
+      "id": "f0007",
+      "type": "attribute",
+      "label": "Aria Label: Opening portfolio",
+      "group": "Opening screen",
+      "default": "Opening portfolio"
+    },
+    {
+      "id": "f0008",
+      "type": "text",
+      "label": "MUHAMMAD TAHA",
+      "group": "Opening screen",
+      "default": "MUHAMMAD TAHA"
+    },
+    {
+      "id": "f0009",
+      "type": "text",
+      "label": "DESIGN WITH INTENTION.",
+      "group": "Opening screen",
+      "default": "DESIGN WITH INTENTION."
+    },
+    {
+      "id": "f0010",
+      "type": "text",
+      "label": "Good things take shape.",
+      "group": "Opening screen",
+      "default": "Good things take shape."
+    },
+    {
+      "id": "f0011",
+      "type": "text",
+      "label": "Skip intro ↗",
+      "group": "Opening screen",
+      "default": "Skip intro ↗"
+    },
+    {
+      "id": "f0012",
+      "type": "attribute",
+      "label": "Aria Label: Muhammad Taha, home",
+      "group": "Header",
+      "default": "Muhammad Taha, home"
+    },
+    {
+      "id": "f0013",
+      "type": "image",
+      "label": "Logo",
+      "group": "Header",
+      "default": "/images/aaad1d054ea713b87de0.png",
+      "altId": "f0014"
+    },
+    {
+      "id": "f0014",
+      "type": "imageAlt",
+      "label": "Image description",
+      "group": "Header",
+      "default": "",
+      "imageId": "f0013"
+    },
+    {
+      "id": "f0015",
+      "type": "text",
+      "label": "Muhammad Taha",
+      "group": "Header",
+      "default": "Muhammad Taha"
+    },
+    {
+      "id": "f0016",
+      "type": "text",
+      "label": "Independent designer",
+      "group": "Header",
+      "default": "Independent designer"
+    },
+    {
+      "id": "f0017",
+      "type": "attribute",
+      "label": "Aria Label: Main navigation",
+      "group": "Header",
+      "default": "Main navigation"
+    },
+    {
+      "id": "f0018",
+      "type": "text",
+      "label": "Work",
+      "group": "Header",
+      "default": "Work "
+    },
+    {
+      "id": "f0019",
+      "type": "text",
+      "label": "About",
+      "group": "Header",
+      "default": "About"
+    },
+    {
+      "id": "f0020",
+      "type": "text",
+      "label": "Services",
+      "group": "Header",
+      "default": "Services"
+    },
+    {
+      "id": "f0021",
+      "type": "text",
+      "label": "Let’s talk",
+      "group": "Header",
+      "default": "Let’s talk "
+    },
+    {
+      "id": "f0022",
+      "type": "attribute",
+      "label": "Aria Label: Mobile navigation",
+      "group": "General",
+      "default": "Mobile navigation"
+    },
+    {
+      "id": "f0023",
+      "type": "text",
+      "label": "Work",
+      "group": "General",
+      "default": "Work "
+    },
+    {
+      "id": "f0024",
+      "type": "text",
+      "label": "About",
+      "group": "General",
+      "default": "About "
+    },
+    {
+      "id": "f0025",
+      "type": "text",
+      "label": "Services",
+      "group": "General",
+      "default": "Services "
+    },
+    {
+      "id": "f0026",
+      "type": "text",
+      "label": "Contact",
+      "group": "General",
+      "default": "Contact "
+    },
+    {
+      "id": "f0027",
+      "type": "text",
+      "label": "SR. GRAPHIC DESIGNER",
+      "group": "Introduction",
+      "default": "SR. GRAPHIC DESIGNER "
+    },
+    {
+      "id": "f0028",
+      "type": "text",
+      "label": "BRANDING EXPERT",
+      "group": "Introduction",
+      "default": " BRANDING EXPERT"
+    },
+    {
+      "id": "f0029",
+      "type": "text",
+      "label": "Open for freelance projects",
+      "group": "Introduction",
+      "default": " Open for freelance projects"
+    },
+    {
+      "id": "f0030",
+      "type": "text",
+      "label": "Ideas into",
+      "group": "Introduction",
+      "default": "Ideas into"
+    },
+    {
+      "id": "f0031",
+      "type": "text",
+      "label": "impact.",
+      "group": "Introduction",
+      "default": "impact."
+    },
+    {
+      "id": "f0032",
+      "type": "text",
+      "label": "THOUGHTFUL DESIGN.",
+      "group": "Introduction",
+      "default": "THOUGHTFUL DESIGN."
+    },
+    {
+      "id": "f0033",
+      "type": "text",
+      "label": "MEANINGFUL CONNECTIONS.",
+      "group": "Introduction",
+      "default": "MEANINGFUL CONNECTIONS."
+    },
+    {
+      "id": "f0034",
+      "type": "text",
+      "label": "I turn ideas into visual experiences that help brands communicate with",
+      "group": "Introduction",
+      "default": "I turn ideas into visual experiences that help brands communicate with clarity, character, and purpose."
+    },
+    {
+      "id": "f0035",
+      "type": "text",
+      "label": "Explore my work",
+      "group": "Introduction",
+      "default": "Explore my work "
+    },
+    {
+      "id": "f0036",
+      "type": "text",
+      "label": "Brand identity",
+      "group": "Introduction",
+      "default": "Brand identity "
+    },
+    {
+      "id": "f0037",
+      "type": "text",
+      "label": "Editorial",
+      "group": "Introduction",
+      "default": " Editorial "
+    },
+    {
+      "id": "f0038",
+      "type": "text",
+      "label": "Digital",
+      "group": "Introduction",
+      "default": " Digital"
+    },
+    {
+      "id": "f0039",
+      "type": "text",
+      "label": "Punjab, Pakistan",
+      "group": "Introduction",
+      "default": "Punjab, Pakistan "
+    },
+    {
+      "id": "f0040",
+      "type": "text",
+      "label": "Working worldwide",
+      "group": "Introduction",
+      "default": " Working worldwide"
+    },
+    {
+      "id": "f0041",
+      "type": "attribute",
+      "label": "Aria Label: Scroll to selected work",
+      "group": "Introduction",
+      "default": "Scroll to selected work"
+    },
+    {
+      "id": "f0042",
+      "type": "text",
+      "label": "Scroll to explore",
+      "group": "Introduction",
+      "default": "Scroll to explore "
+    },
+    {
+      "id": "f0043",
+      "type": "text",
+      "label": "01 / SELECTED WORK",
+      "group": "Selected work",
+      "default": "01 / SELECTED WORK"
+    },
+    {
+      "id": "f0044",
+      "type": "text",
+      "label": "Made with purpose.",
+      "group": "Selected work",
+      "default": "Made with purpose."
+    },
+    {
+      "id": "f0045",
+      "type": "text",
+      "label": "Built to connect.",
+      "group": "Selected work",
+      "default": "Built to connect."
+    },
+    {
+      "id": "f0046",
+      "type": "text",
+      "label": "A closer look at the thinking, craft, and care behind four projects.",
+      "group": "Selected work",
+      "default": "A closer look at the thinking, craft, and care behind four projects."
+    },
+    {
+      "id": "f0047",
+      "type": "text",
+      "label": "Project stories are from my portfolio. Images are illustrative preview",
+      "group": "Selected work",
+      "default": "Project stories are from my portfolio. Images are illustrative previews, to be replaced with original work."
+    },
+    {
+      "id": "f0048",
+      "type": "attribute",
+      "label": "Aria Label: Read case study: The Quran Scholars Hub",
+      "group": "Selected work",
+      "default": "Read case study: The Quran Scholars Hub"
+    },
+    {
+      "id": "f0049",
+      "type": "image",
+      "label": "Illustrative blue and ivory educational brand stationery mockup",
+      "group": "Selected work",
+      "default": "/images/f04acb2c8df39f667690.webp",
+      "altId": "f0050"
+    },
+    {
+      "id": "f0050",
+      "type": "imageAlt",
+      "label": "Image description",
+      "group": "Selected work",
+      "default": "Illustrative blue and ivory educational brand stationery mockup",
+      "imageId": "f0049"
+    },
+    {
+      "id": "f0051",
+      "type": "text",
+      "label": "Illustrative mockup",
+      "group": "Selected work",
+      "default": "Illustrative mockup"
+    },
+    {
+      "id": "f0052",
+      "type": "text",
+      "label": "01 / Brand Identity",
+      "group": "Selected work",
+      "default": "01 / Brand Identity"
+    },
+    {
+      "id": "f0053",
+      "type": "text",
+      "label": "The Quran Scholars Hub",
+      "group": "Selected work",
+      "default": "The Quran Scholars Hub"
+    },
+    {
+      "id": "f0054",
+      "type": "text",
+      "label": "A complete visual identity developed from scratch for an educational i",
+      "group": "Selected work",
+      "default": "A complete visual identity developed from scratch for an educational institution focused on Quranic and Arabic studies."
+    },
+    {
+      "id": "f0055",
+      "type": "attribute",
+      "label": "Aria Label: Read case study: Journey to Jannah",
+      "group": "Selected work",
+      "default": "Read case study: Journey to Jannah"
+    },
+    {
+      "id": "f0056",
+      "type": "image",
+      "label": "Illustrative four-volume children’s educational book mockup",
+      "group": "Selected work",
+      "default": "/images/a5b55f389452e2a036c7.webp",
+      "altId": "f0057"
+    },
+    {
+      "id": "f0057",
+      "type": "imageAlt",
+      "label": "Image description",
+      "group": "Selected work",
+      "default": "Illustrative four-volume children’s educational book mockup",
+      "imageId": "f0056"
+    },
+    {
+      "id": "f0058",
+      "type": "text",
+      "label": "Illustrative mockup",
+      "group": "Selected work",
+      "default": "Illustrative mockup"
+    },
+    {
+      "id": "f0059",
+      "type": "text",
+      "label": "02 / Children",
+      "group": "Selected work",
+      "default": "02 / Children"
+    },
+    {
+      "id": "f0060",
+      "type": "text",
+      "label": "s Islamic Educational Series",
+      "group": "Selected work",
+      "default": "s Islamic Educational Series"
+    },
+    {
+      "id": "f0061",
+      "type": "text",
+      "label": "Journey to Jannah",
+      "group": "Selected work",
+      "default": "Journey to Jannah"
+    },
+    {
+      "id": "f0062",
+      "type": "text",
+      "label": "A four-level Islamic Studies book series designed to make learning mor",
+      "group": "Selected work",
+      "default": "A four-level Islamic Studies book series designed to make learning more engaging, visual, and memorable for children."
+    },
+    {
+      "id": "f0063",
+      "type": "attribute",
+      "label": "Aria Label: Read case study: The Path to the Arabic Language",
+      "group": "Selected work",
+      "default": "Read case study: The Path to the Arabic Language"
+    },
+    {
+      "id": "f0064",
+      "type": "image",
+      "label": "Illustrative Arabic learning book cover mockups",
+      "group": "Selected work",
+      "default": "/images/2f4cc1c7ed786573aad5.webp",
+      "altId": "f0065"
+    },
+    {
+      "id": "f0065",
+      "type": "imageAlt",
+      "label": "Image description",
+      "group": "Selected work",
+      "default": "Illustrative Arabic learning book cover mockups",
+      "imageId": "f0064"
+    },
+    {
+      "id": "f0066",
+      "type": "text",
+      "label": "Illustrative mockup",
+      "group": "Selected work",
+      "default": "Illustrative mockup"
+    },
+    {
+      "id": "f0067",
+      "type": "text",
+      "label": "03 / Educational Editorial Design",
+      "group": "Selected work",
+      "default": "03 / Educational Editorial Design"
+    },
+    {
+      "id": "f0068",
+      "type": "text",
+      "label": "The Path to the Arabic Language",
+      "group": "Selected work",
+      "default": "The Path to the Arabic Language"
+    },
+    {
+      "id": "f0069",
+      "type": "text",
+      "label": "A collection of Arabic-learning publications designed around readabili",
+      "group": "Selected work",
+      "default": "A collection of Arabic-learning publications designed around readability, typography, consistency, and structured learning."
+    },
+    {
+      "id": "f0070",
+      "type": "attribute",
+      "label": "Aria Label: Read case study: The Broken Egoist",
+      "group": "Selected work",
+      "default": "Read case study: The Broken Egoist"
+    },
+    {
+      "id": "f0071",
+      "type": "image",
+      "label": "Illustrative literary book cover and interior mockup",
+      "group": "Selected work",
+      "default": "/images/bfbc52f528879b2e4d12.webp",
+      "altId": "f0072"
+    },
+    {
+      "id": "f0072",
+      "type": "imageAlt",
+      "label": "Image description",
+      "group": "Selected work",
+      "default": "Illustrative literary book cover and interior mockup",
+      "imageId": "f0071"
+    },
+    {
+      "id": "f0073",
+      "type": "text",
+      "label": "Illustrative mockup",
+      "group": "Selected work",
+      "default": "Illustrative mockup"
+    },
+    {
+      "id": "f0074",
+      "type": "text",
+      "label": "04 / Biographical Book Design",
+      "group": "Selected work",
+      "default": "04 / Biographical Book Design"
+    },
+    {
+      "id": "f0075",
+      "type": "text",
+      "label": "The Broken Egoist",
+      "group": "Selected work",
+      "default": "The Broken Egoist"
+    },
+    {
+      "id": "f0076",
+      "type": "text",
+      "label": "A complete biographical book design combining editorial structure, typ",
+      "group": "Selected work",
+      "default": "A complete biographical book design combining editorial structure, typography, storytelling, and a distinctive Urdu literary element."
+    },
+    {
+      "id": "f0077",
+      "type": "text",
+      "label": "02 / MORE EXPLORATIONS",
+      "group": "More work",
+      "default": "02 / MORE EXPLORATIONS"
+    },
+    {
+      "id": "f0078",
+      "type": "text",
+      "label": "Different formats.",
+      "group": "More work",
+      "default": "Different formats."
+    },
+    {
+      "id": "f0079",
+      "type": "text",
+      "label": "Same attention to detail.",
+      "group": "More work",
+      "default": "Same attention to detail."
+    },
+    {
+      "id": "f0080",
+      "type": "text",
+      "label": "Branding, print, digital, and campaign work for organizations, univers",
+      "group": "More work",
+      "default": "Branding, print, digital, and campaign work for organizations, universities, and creative projects."
+    },
+    {
+      "id": "f0081",
+      "type": "attribute",
+      "label": "Aria Label: Filter more work",
+      "group": "More work",
+      "default": "Filter more work"
+    },
+    {
+      "id": "f0082",
+      "type": "text",
+      "label": "All work",
+      "group": "More work",
+      "default": "All work "
+    },
+    {
+      "id": "f0083",
+      "type": "text",
+      "label": "Branding",
+      "group": "More work",
+      "default": "Branding"
+    },
+    {
+      "id": "f0084",
+      "type": "text",
+      "label": "Editorial",
+      "group": "More work",
+      "default": "Editorial"
+    },
+    {
+      "id": "f0085",
+      "type": "text",
+      "label": "Digital",
+      "group": "More work",
+      "default": "Digital"
+    },
+    {
+      "id": "f0086",
+      "type": "text",
+      "label": "Campaigns",
+      "group": "More work",
+      "default": "Campaigns"
+    },
+    {
+      "id": "f0087",
+      "type": "image",
+      "label": "Illustrative branding design mockup",
+      "group": "More work",
+      "default": "/images/f04acb2c8df39f667690.webp",
+      "altId": "f0088"
+    },
+    {
+      "id": "f0088",
+      "type": "imageAlt",
+      "label": "Image description",
+      "group": "More work",
+      "default": "Illustrative branding design mockup",
+      "imageId": "f0087"
+    },
+    {
+      "id": "f0089",
+      "type": "text",
+      "label": "Illustrative mockup",
+      "group": "More work",
+      "default": "Illustrative mockup"
+    },
+    {
+      "id": "f0090",
+      "type": "text",
+      "label": "Association for Development",
+      "group": "More work",
+      "default": "Association for Development "
+    },
+    {
+      "id": "f0091",
+      "type": "text",
+      "label": "Law",
+      "group": "More work",
+      "default": " Law"
+    },
+    {
+      "id": "f0092",
+      "type": "text",
+      "label": "Certificates",
+      "group": "More work",
+      "default": "Certificates"
+    },
+    {
+      "id": "f0093",
+      "type": "image",
+      "label": "Illustrative branding design mockup",
+      "group": "More work",
+      "default": "/images/167efb22704d442d6752.webp",
+      "altId": "f0094"
+    },
+    {
+      "id": "f0094",
+      "type": "imageAlt",
+      "label": "Image description",
+      "group": "More work",
+      "default": "Illustrative branding design mockup",
+      "imageId": "f0093"
+    },
+    {
+      "id": "f0095",
+      "type": "text",
+      "label": "Illustrative mockup",
+      "group": "More work",
+      "default": "Illustrative mockup"
+    },
+    {
+      "id": "f0096",
+      "type": "text",
+      "label": "Association for Development",
+      "group": "More work",
+      "default": "Association for Development "
+    },
+    {
+      "id": "f0097",
+      "type": "text",
+      "label": "Law",
+      "group": "More work",
+      "default": " Law"
+    },
+    {
+      "id": "f0098",
+      "type": "text",
+      "label": "Collaboration Posters",
+      "group": "More work",
+      "default": "Collaboration Posters"
+    },
+    {
+      "id": "f0099",
+      "type": "image",
+      "label": "Illustrative branding design mockup",
+      "group": "More work",
+      "default": "/images/f04acb2c8df39f667690.webp",
+      "altId": "f0100"
+    },
+    {
+      "id": "f0100",
+      "type": "imageAlt",
+      "label": "Image description",
+      "group": "More work",
+      "default": "Illustrative branding design mockup",
+      "imageId": "f0099"
+    },
+    {
+      "id": "f0101",
+      "type": "text",
+      "label": "Illustrative mockup",
+      "group": "More work",
+      "default": "Illustrative mockup"
+    },
+    {
+      "id": "f0102",
+      "type": "text",
+      "label": "Association for Development",
+      "group": "More work",
+      "default": "Association for Development "
+    },
+    {
+      "id": "f0103",
+      "type": "text",
+      "label": "Law",
+      "group": "More work",
+      "default": " Law"
+    },
+    {
+      "id": "f0104",
+      "type": "text",
+      "label": "Organizational Designs",
+      "group": "More work",
+      "default": "Organizational Designs"
+    },
+    {
+      "id": "f0105",
+      "type": "image",
+      "label": "Illustrative editorial design mockup",
+      "group": "More work",
+      "default": "/images/167efb22704d442d6752.webp",
+      "altId": "f0106"
+    },
+    {
+      "id": "f0106",
+      "type": "imageAlt",
+      "label": "Image description",
+      "group": "More work",
+      "default": "Illustrative editorial design mockup",
+      "imageId": "f0105"
+    },
+    {
+      "id": "f0107",
+      "type": "text",
+      "label": "Illustrative mockup",
+      "group": "More work",
+      "default": "Illustrative mockup"
+    },
+    {
+      "id": "f0108",
+      "type": "text",
+      "label": "University",
+      "group": "More work",
+      "default": "University "
+    },
+    {
+      "id": "f0109",
+      "type": "text",
+      "label": "Club Work",
+      "group": "More work",
+      "default": " Club Work"
+    },
+    {
+      "id": "f0110",
+      "type": "text",
+      "label": "Invitation Cards",
+      "group": "More work",
+      "default": "Invitation Cards"
+    },
+    {
+      "id": "f0111",
+      "type": "image",
+      "label": "Illustrative editorial design mockup",
+      "group": "More work",
+      "default": "/images/167efb22704d442d6752.webp",
+      "altId": "f0112"
+    },
+    {
+      "id": "f0112",
+      "type": "imageAlt",
+      "label": "Image description",
+      "group": "More work",
+      "default": "Illustrative editorial design mockup",
+      "imageId": "f0111"
+    },
+    {
+      "id": "f0113",
+      "type": "text",
+      "label": "Illustrative mockup",
+      "group": "More work",
+      "default": "Illustrative mockup"
+    },
+    {
+      "id": "f0114",
+      "type": "text",
+      "label": "University",
+      "group": "More work",
+      "default": "University "
+    },
+    {
+      "id": "f0115",
+      "type": "text",
+      "label": "Club Work",
+      "group": "More work",
+      "default": " Club Work"
+    },
+    {
+      "id": "f0116",
+      "type": "text",
+      "label": "Event Graphics",
+      "group": "More work",
+      "default": "Event Graphics"
+    },
+    {
+      "id": "f0117",
+      "type": "image",
+      "label": "Illustrative editorial design mockup",
+      "group": "More work",
+      "default": "/images/167efb22704d442d6752.webp",
+      "altId": "f0118"
+    },
+    {
+      "id": "f0118",
+      "type": "imageAlt",
+      "label": "Image description",
+      "group": "More work",
+      "default": "Illustrative editorial design mockup",
+      "imageId": "f0117"
+    },
+    {
+      "id": "f0119",
+      "type": "text",
+      "label": "Illustrative mockup",
+      "group": "More work",
+      "default": "Illustrative mockup"
+    },
+    {
+      "id": "f0120",
+      "type": "text",
+      "label": "Association for Development",
+      "group": "More work",
+      "default": "Association for Development "
+    },
+    {
+      "id": "f0121",
+      "type": "text",
+      "label": "Law",
+      "group": "More work",
+      "default": " Law"
+    },
+    {
+      "id": "f0122",
+      "type": "text",
+      "label": "Posters",
+      "group": "More work",
+      "default": "Posters"
+    },
+    {
+      "id": "f0123",
+      "type": "image",
+      "label": "Illustrative digital design mockup",
+      "group": "More work",
+      "default": "/images/167efb22704d442d6752.webp",
+      "altId": "f0124"
+    },
+    {
+      "id": "f0124",
+      "type": "imageAlt",
+      "label": "Image description",
+      "group": "More work",
+      "default": "Illustrative digital design mockup",
+      "imageId": "f0123"
+    },
+    {
+      "id": "f0125",
+      "type": "text",
+      "label": "Illustrative mockup",
+      "group": "More work",
+      "default": "Illustrative mockup"
+    },
+    {
+      "id": "f0126",
+      "type": "text",
+      "label": "University",
+      "group": "More work",
+      "default": "University "
+    },
+    {
+      "id": "f0127",
+      "type": "text",
+      "label": "Club Work",
+      "group": "More work",
+      "default": " Club Work"
+    },
+    {
+      "id": "f0128",
+      "type": "text",
+      "label": "Social Media Posts",
+      "group": "More work",
+      "default": "Social Media Posts"
+    },
+    {
+      "id": "f0129",
+      "type": "image",
+      "label": "Illustrative digital design mockup",
+      "group": "More work",
+      "default": "/images/167efb22704d442d6752.webp",
+      "altId": "f0130"
+    },
+    {
+      "id": "f0130",
+      "type": "imageAlt",
+      "label": "Image description",
+      "group": "More work",
+      "default": "Illustrative digital design mockup",
+      "imageId": "f0129"
+    },
+    {
+      "id": "f0131",
+      "type": "text",
+      "label": "Illustrative mockup",
+      "group": "More work",
+      "default": "Illustrative mockup"
+    },
+    {
+      "id": "f0132",
+      "type": "text",
+      "label": "University",
+      "group": "More work",
+      "default": "University "
+    },
+    {
+      "id": "f0133",
+      "type": "text",
+      "label": "Club Work",
+      "group": "More work",
+      "default": " Club Work"
+    },
+    {
+      "id": "f0134",
+      "type": "text",
+      "label": "Promotional Designs",
+      "group": "More work",
+      "default": "Promotional Designs"
+    },
+    {
+      "id": "f0135",
+      "type": "image",
+      "label": "Illustrative digital design mockup",
+      "group": "More work",
+      "default": "/images/167efb22704d442d6752.webp",
+      "altId": "f0136"
+    },
+    {
+      "id": "f0136",
+      "type": "imageAlt",
+      "label": "Image description",
+      "group": "More work",
+      "default": "Illustrative digital design mockup",
+      "imageId": "f0135"
+    },
+    {
+      "id": "f0137",
+      "type": "text",
+      "label": "Illustrative mockup",
+      "group": "More work",
+      "default": "Illustrative mockup"
+    },
+    {
+      "id": "f0138",
+      "type": "text",
+      "label": "Association for Development",
+      "group": "More work",
+      "default": "Association for Development "
+    },
+    {
+      "id": "f0139",
+      "type": "text",
+      "label": "Law",
+      "group": "More work",
+      "default": " Law"
+    },
+    {
+      "id": "f0140",
+      "type": "text",
+      "label": "Campaign Graphics",
+      "group": "More work",
+      "default": "Campaign Graphics"
+    },
+    {
+      "id": "f0141",
+      "type": "image",
+      "label": "Illustrative campaigns design mockup",
+      "group": "More work",
+      "default": "/images/167efb22704d442d6752.webp",
+      "altId": "f0142"
+    },
+    {
+      "id": "f0142",
+      "type": "imageAlt",
+      "label": "Image description",
+      "group": "More work",
+      "default": "Illustrative campaigns design mockup",
+      "imageId": "f0141"
+    },
+    {
+      "id": "f0143",
+      "type": "text",
+      "label": "Illustrative mockup",
+      "group": "More work",
+      "default": "Illustrative mockup"
+    },
+    {
+      "id": "f0144",
+      "type": "text",
+      "label": "University",
+      "group": "More work",
+      "default": "University "
+    },
+    {
+      "id": "f0145",
+      "type": "text",
+      "label": "Club Work",
+      "group": "More work",
+      "default": " Club Work"
+    },
+    {
+      "id": "f0146",
+      "type": "text",
+      "label": "Event Admission Posters",
+      "group": "More work",
+      "default": "Event Admission Posters"
+    },
+    {
+      "id": "f0147",
+      "type": "image",
+      "label": "Illustrative campaigns design mockup",
+      "group": "More work",
+      "default": "/images/167efb22704d442d6752.webp",
+      "altId": "f0148"
+    },
+    {
+      "id": "f0148",
+      "type": "imageAlt",
+      "label": "Image description",
+      "group": "More work",
+      "default": "Illustrative campaigns design mockup",
+      "imageId": "f0147"
+    },
+    {
+      "id": "f0149",
+      "type": "text",
+      "label": "Illustrative mockup",
+      "group": "More work",
+      "default": "Illustrative mockup"
+    },
+    {
+      "id": "f0150",
+      "type": "text",
+      "label": "University",
+      "group": "More work",
+      "default": "University "
+    },
+    {
+      "id": "f0151",
+      "type": "text",
+      "label": "Club Work",
+      "group": "More work",
+      "default": " Club Work"
+    },
+    {
+      "id": "f0152",
+      "type": "text",
+      "label": "Sports Posters",
+      "group": "More work",
+      "default": "Sports Posters"
+    },
+    {
+      "id": "f0153",
+      "type": "text",
+      "label": "03 / THE PERSON BEHIND THE PIXELS",
+      "group": "About",
+      "default": "03 / THE PERSON BEHIND THE PIXELS"
+    },
+    {
+      "id": "f0154",
+      "type": "text",
+      "label": "A curious mind.",
+      "group": "About",
+      "default": "A curious mind."
+    },
+    {
+      "id": "f0155",
+      "type": "text",
+      "label": "A considered eye.",
+      "group": "About",
+      "default": "A considered eye."
+    },
+    {
+      "id": "f0156",
+      "type": "text",
+      "label": "I’m Muhammad Taha.",
+      "group": "About",
+      "default": "I’m Muhammad Taha."
+    },
+    {
+      "id": "f0157",
+      "type": "text",
+      "label": "A self-taught designer who",
+      "group": "About",
+      "default": "A self-taught designer who"
+    },
+    {
+      "id": "f0158",
+      "type": "text",
+      "label": "keeps moving forward.",
+      "group": "About",
+      "default": "keeps moving forward."
+    },
+    {
+      "id": "f0159",
+      "type": "text",
+      "label": "Based in Punjab, Pakistan.",
+      "group": "About",
+      "default": "Based in Punjab, Pakistan."
+    },
+    {
+      "id": "f0160",
+      "type": "text",
+      "label": "Open to freelance projects",
+      "group": "About",
+      "default": "Open to freelance projects "
+    },
+    {
+      "id": "f0161",
+      "type": "text",
+      "label": "creative collaborations.",
+      "group": "About",
+      "default": " creative collaborations."
+    },
+    {
+      "id": "f0162",
+      "type": "text",
+      "label": "I started with almost no formal design knowledge. I began by exploring",
+      "group": "About",
+      "default": "I started with almost no formal design knowledge. I began by exploring Canva, experimenting with different types of designs, and gradually discovering tools like Photoshop, Illustrator, InDesign, and other creative software."
+    },
+    {
+      "id": "f0163",
+      "type": "text",
+      "label": "I never followed one fixed course or stayed limited to one tool. Whene",
+      "group": "About",
+      "default": "I never followed one fixed course or stayed limited to one tool. Whenever something felt difficult, I learned what I needed, explored new possibilities, and kept improving through practical work."
+    },
+    {
+      "id": "f0164",
+      "type": "text",
+      "label": "Today, after nearly two years in graphic design, I",
+      "group": "About",
+      "default": "Today, after nearly two years in graphic design, I"
+    },
+    {
+      "id": "f0165",
+      "type": "text",
+      "label": "ve worked with around 20 local clients and contributed to projects for",
+      "group": "About",
+      "default": "ve worked with around 20 local clients and contributed to projects for international organizations and NGOs."
+    },
+    {
+      "id": "f0166",
+      "type": "text",
+      "label": "My work spans branding, editorial design, educational publications, so",
+      "group": "About",
+      "default": "My work spans branding, editorial design, educational publications, social media, and digital communication."
+    },
+    {
+      "id": "f0167",
+      "type": "text",
+      "label": "Local clients",
+      "group": "About",
+      "default": "Local clients"
+    },
+    {
+      "id": "f0168",
+      "type": "text",
+      "label": "International organizations",
+      "group": "About",
+      "default": "International organizations"
+    },
+    {
+      "id": "f0169",
+      "type": "text",
+      "label": "Years of design experience",
+      "group": "About",
+      "default": "Years of design experience"
+    },
+    {
+      "id": "f0170",
+      "type": "text",
+      "label": "My creative toolkit",
+      "group": "About",
+      "default": "My creative toolkit"
+    },
+    {
+      "id": "f0171",
+      "type": "text",
+      "label": "Canva Pro",
+      "group": "About",
+      "default": "Canva Pro"
+    },
+    {
+      "id": "f0172",
+      "type": "text",
+      "label": "Photoshop",
+      "group": "About",
+      "default": "Photoshop"
+    },
+    {
+      "id": "f0173",
+      "type": "text",
+      "label": "Illustrator",
+      "group": "About",
+      "default": "Illustrator"
+    },
+    {
+      "id": "f0174",
+      "type": "text",
+      "label": "InDesign",
+      "group": "About",
+      "default": "InDesign"
+    },
+    {
+      "id": "f0175",
+      "type": "text",
+      "label": "Premiere Pro",
+      "group": "About",
+      "default": "Premiere Pro"
+    },
+    {
+      "id": "f0176",
+      "type": "text",
+      "label": "I choose tools based on what the project requires, rather than limitin",
+      "group": "About",
+      "default": "I choose tools based on what the project requires, rather than limiting the work to one platform."
+    },
+    {
+      "id": "f0177",
+      "type": "text",
+      "label": "04 / HOW I CAN HELP",
+      "group": "Services",
+      "default": "04 / HOW I CAN HELP"
+    },
+    {
+      "id": "f0178",
+      "type": "text",
+      "label": "Your vision.",
+      "group": "Services",
+      "default": "Your vision."
+    },
+    {
+      "id": "f0179",
+      "type": "text",
+      "label": "A visual voice.",
+      "group": "Services",
+      "default": "A visual voice."
+    },
+    {
+      "id": "f0180",
+      "type": "text",
+      "label": "From the first idea to the final detail, design that makes your messag",
+      "group": "Services",
+      "default": "From the first idea to the final detail, design that makes your message clear and your brand feel like you."
+    },
+    {
+      "id": "f0181",
+      "type": "text",
+      "label": "Let’s build something",
+      "group": "Services",
+      "default": "Let’s build something "
+    },
+    {
+      "id": "f0182",
+      "type": "text",
+      "label": "Brand Identity",
+      "group": "Services",
+      "default": "Brand Identity"
+    },
+    {
+      "id": "f0183",
+      "type": "text",
+      "label": "I create distinctive and consistent visual identities that give brands",
+      "group": "Services",
+      "default": "I create distinctive and consistent visual identities that give brands a clear visual voice and a strong foundation for communication."
+    },
+    {
+      "id": "f0184",
+      "type": "text",
+      "label": "Logo Design · Visual Identity · Brand Systems · Brand Guidelines",
+      "group": "Services",
+      "default": "Logo Design · Visual Identity · Brand Systems · Brand Guidelines"
+    },
+    {
+      "id": "f0185",
+      "type": "text",
+      "label": "Let’s talk about your project ↗",
+      "group": "Services",
+      "default": "Let’s talk about your project ↗"
+    },
+    {
+      "id": "f0186",
+      "type": "text",
+      "label": "Editorial",
+      "group": "Services",
+      "default": "Editorial "
+    },
+    {
+      "id": "f0187",
+      "type": "text",
+      "label": "Book Design",
+      "group": "Services",
+      "default": " Book Design"
+    },
+    {
+      "id": "f0188",
+      "type": "text",
+      "label": "I design books and publications with strong hierarchy, typography, str",
+      "group": "Services",
+      "default": "I design books and publications with strong hierarchy, typography, structure, and visual consistency — from individual covers to complete publication systems."
+    },
+    {
+      "id": "f0189",
+      "type": "text",
+      "label": "Book Design · Book Covers · Educational Publications · Complete Layout",
+      "group": "Services",
+      "default": "Book Design · Book Covers · Educational Publications · Complete Layout · Typography"
+    },
+    {
+      "id": "f0190",
+      "type": "text",
+      "label": "Let’s talk about your project ↗",
+      "group": "Services",
+      "default": "Let’s talk about your project ↗"
+    },
+    {
+      "id": "f0191",
+      "type": "text",
+      "label": "Digital",
+      "group": "Services",
+      "default": "Digital "
+    },
+    {
+      "id": "f0192",
+      "type": "text",
+      "label": "Social Media Design",
+      "group": "Services",
+      "default": " Social Media Design"
+    },
+    {
+      "id": "f0193",
+      "type": "text",
+      "label": "I create engaging visual content for digital platforms, helping organi",
+      "group": "Services",
+      "default": "I create engaging visual content for digital platforms, helping organizations and brands communicate clearly and consistently online."
+    },
+    {
+      "id": "f0194",
+      "type": "text",
+      "label": "Social Media · Digital Campaigns · Marketing Graphics · Digital Conten",
+      "group": "Services",
+      "default": "Social Media · Digital Campaigns · Marketing Graphics · Digital Content"
+    },
+    {
+      "id": "f0195",
+      "type": "text",
+      "label": "Let’s talk about your project ↗",
+      "group": "Services",
+      "default": "Let’s talk about your project ↗"
+    },
+    {
+      "id": "f0196",
+      "type": "text",
+      "label": "Packaging Design",
+      "group": "Services",
+      "default": "Packaging Design"
+    },
+    {
+      "id": "f0197",
+      "type": "text",
+      "label": "I develop packaging visuals that combine clear communication, strong b",
+      "group": "Services",
+      "default": "I develop packaging visuals that combine clear communication, strong branding, and an appealing presentation."
+    },
+    {
+      "id": "f0198",
+      "type": "text",
+      "label": "Packaging Graphics · Product Presentation · Brand Integration",
+      "group": "Services",
+      "default": "Packaging Graphics · Product Presentation · Brand Integration"
+    },
+    {
+      "id": "f0199",
+      "type": "text",
+      "label": "Let’s talk about your project ↗",
+      "group": "Services",
+      "default": "Let’s talk about your project ↗"
+    },
+    {
+      "id": "f0200",
+      "type": "text",
+      "label": "Marketing",
+      "group": "Services",
+      "default": "Marketing "
+    },
+    {
+      "id": "f0201",
+      "type": "text",
+      "label": "Print Design",
+      "group": "Services",
+      "default": " Print Design"
+    },
+    {
+      "id": "f0202",
+      "type": "text",
+      "label": "I turn information, campaigns, and ideas into clear visual communicati",
+      "group": "Services",
+      "default": "I turn information, campaigns, and ideas into clear visual communication designed for both digital and print applications."
+    },
+    {
+      "id": "f0203",
+      "type": "text",
+      "label": "Posters · Advertising · Promotional Materials · Business Cards · Invit",
+      "group": "Services",
+      "default": "Posters · Advertising · Promotional Materials · Business Cards · Invitations · Certificates"
+    },
+    {
+      "id": "f0204",
+      "type": "text",
+      "label": "Let’s talk about your project ↗",
+      "group": "Services",
+      "default": "Let’s talk about your project ↗"
+    },
+    {
+      "id": "f0205",
+      "type": "text",
+      "label": "Thumbnail Design",
+      "group": "Services",
+      "default": "Thumbnail Design"
+    },
+    {
+      "id": "f0206",
+      "type": "text",
+      "label": "I create attention-focused thumbnails designed to communicate the subj",
+      "group": "Services",
+      "default": "I create attention-focused thumbnails designed to communicate the subject quickly and make digital content visually engaging."
+    },
+    {
+      "id": "f0207",
+      "type": "text",
+      "label": "YouTube · Video Content · Digital Media",
+      "group": "Services",
+      "default": "YouTube · Video Content · Digital Media"
+    },
+    {
+      "id": "f0208",
+      "type": "text",
+      "label": "Let’s talk about your project ↗",
+      "group": "Services",
+      "default": "Let’s talk about your project ↗"
+    },
+    {
+      "id": "f0209",
+      "type": "text",
+      "label": "ALSO IN MY TOOLKIT",
+      "group": "Services",
+      "default": "ALSO IN MY TOOLKIT"
+    },
+    {
+      "id": "f0210",
+      "type": "text",
+      "label": "Logo Design",
+      "group": "Services",
+      "default": "Logo Design"
+    },
+    {
+      "id": "f0211",
+      "type": "text",
+      "label": "Branding",
+      "group": "Services",
+      "default": "Branding"
+    },
+    {
+      "id": "f0212",
+      "type": "text",
+      "label": "Social Media Posts",
+      "group": "Services",
+      "default": "Social Media Posts"
+    },
+    {
+      "id": "f0213",
+      "type": "text",
+      "label": "Poster Design",
+      "group": "Services",
+      "default": "Poster Design"
+    },
+    {
+      "id": "f0214",
+      "type": "text",
+      "label": "Book Cover Design",
+      "group": "Services",
+      "default": "Book Cover Design"
+    },
+    {
+      "id": "f0215",
+      "type": "text",
+      "label": "Complete Book Layout",
+      "group": "Services",
+      "default": "Complete Book Layout"
+    },
+    {
+      "id": "f0216",
+      "type": "text",
+      "label": "Packaging Design",
+      "group": "Services",
+      "default": "Packaging Design"
+    },
+    {
+      "id": "f0217",
+      "type": "text",
+      "label": "Business Cards",
+      "group": "Services",
+      "default": "Business Cards"
+    },
+    {
+      "id": "f0218",
+      "type": "text",
+      "label": "Invitations",
+      "group": "Services",
+      "default": "Invitations"
+    },
+    {
+      "id": "f0219",
+      "type": "text",
+      "label": "Certificates",
+      "group": "Services",
+      "default": "Certificates"
+    },
+    {
+      "id": "f0220",
+      "type": "text",
+      "label": "Marketing Graphics",
+      "group": "Services",
+      "default": "Marketing Graphics"
+    },
+    {
+      "id": "f0221",
+      "type": "text",
+      "label": "Custom Projects",
+      "group": "Services",
+      "default": "Custom Projects"
+    },
+    {
+      "id": "f0222",
+      "type": "text",
+      "label": "Have something different in mind? Let’s talk ↗",
+      "group": "Services",
+      "default": "Have something different in mind? Let’s talk ↗"
+    },
+    {
+      "id": "f0223",
+      "type": "text",
+      "label": "05 / THE WAY I WORK",
+      "group": "Process",
+      "default": "05 / THE WAY I WORK"
+    },
+    {
+      "id": "f0224",
+      "type": "text",
+      "label": "Understand first.",
+      "group": "Process",
+      "default": "Understand first."
+    },
+    {
+      "id": "f0225",
+      "type": "text",
+      "label": "Design second.",
+      "group": "Process",
+      "default": "Design second."
+    },
+    {
+      "id": "f0226",
+      "type": "text",
+      "label": "Good design isn’t just about looking good. It’s about communicating th",
+      "group": "Process",
+      "default": "Good design isn’t just about looking good. It’s about communicating the right thing in the right way."
+    },
+    {
+      "id": "f0227",
+      "type": "text",
+      "label": "What does the client",
+      "group": "Process",
+      "default": "What does the client"
+    },
+    {
+      "id": "f0228",
+      "type": "text",
+      "label": "actually need?",
+      "group": "Process",
+      "default": "actually need?"
+    },
+    {
+      "id": "f0229",
+      "type": "text",
+      "label": "What does the client actually need? I first understand the objective, ",
+      "group": "Process",
+      "default": "What does the client actually need? I first understand the objective, then identify what resources I have, what information or assets I need from the client, and what can make the final design more effective or distinctive."
+    },
+    {
+      "id": "f0230",
+      "type": "text",
+      "label": "My design philosophy",
+      "group": "Process",
+      "default": "My design philosophy "
+    },
+    {
+      "id": "f0231",
+      "type": "text",
+      "label": "Every project begins with understanding. I don",
+      "group": "Process",
+      "default": "Every project begins with understanding. I don"
+    },
+    {
+      "id": "f0232",
+      "type": "text",
+      "label": "t believe in designing simply for the sake of making something visuall",
+      "group": "Process",
+      "default": "t believe in designing simply for the sake of making something visually attractive. I look at the purpose behind the project, the audience it needs to reach, and the problem the design needs to solve. From there, I build a visual direction, choose the right tools and resources, and develop the design with consistency and attention to detail."
+    },
+    {
+      "id": "f0233",
+      "type": "text",
+      "label": "Understand",
+      "group": "Process",
+      "default": "Understand"
+    },
+    {
+      "id": "f0234",
+      "type": "text",
+      "label": "Your purpose, your audience, your goals.",
+      "group": "Process",
+      "default": "Your purpose, your audience, your goals."
+    },
+    {
+      "id": "f0235",
+      "type": "text",
+      "label": "Plan",
+      "group": "Process",
+      "default": "Plan"
+    },
+    {
+      "id": "f0236",
+      "type": "text",
+      "label": "A clear direction before the first design.",
+      "group": "Process",
+      "default": "A clear direction before the first design."
+    },
+    {
+      "id": "f0237",
+      "type": "text",
+      "label": "Design",
+      "group": "Process",
+      "default": "Design"
+    },
+    {
+      "id": "f0238",
+      "type": "text",
+      "label": "Ideas shaped into a consistent visual system.",
+      "group": "Process",
+      "default": "Ideas shaped into a consistent visual system."
+    },
+    {
+      "id": "f0239",
+      "type": "text",
+      "label": "Refine",
+      "group": "Process",
+      "default": "Refine"
+    },
+    {
+      "id": "f0240",
+      "type": "text",
+      "label": "Thoughtful feedback. Attention to detail.",
+      "group": "Process",
+      "default": "Thoughtful feedback. Attention to detail."
+    },
+    {
+      "id": "f0241",
+      "type": "text",
+      "label": "Deliver",
+      "group": "Process",
+      "default": "Deliver"
+    },
+    {
+      "id": "f0242",
+      "type": "text",
+      "label": "The finished work, ready for its purpose.",
+      "group": "Process",
+      "default": "The finished work, ready for its purpose."
+    },
+    {
+      "id": "f0243",
+      "type": "text",
+      "label": "06 / ALONG THE WAY",
+      "group": "Experience",
+      "default": "06 / ALONG THE WAY"
+    },
+    {
+      "id": "f0244",
+      "type": "text",
+      "label": "Experience that",
+      "group": "Experience",
+      "default": "Experience that"
+    },
+    {
+      "id": "f0245",
+      "type": "text",
+      "label": "shapes the work.",
+      "group": "Experience",
+      "default": "shapes the work."
+    },
+    {
+      "id": "f0246",
+      "type": "text",
+      "label": "From university initiatives and organizational identities to independe",
+      "group": "Experience",
+      "default": "From university initiatives and organizational identities to independent client projects."
+    },
+    {
+      "id": "f0247",
+      "type": "text",
+      "label": "Now",
+      "group": "Experience",
+      "default": "Now"
+    },
+    {
+      "id": "f0248",
+      "type": "text",
+      "label": "Freelance Graphic Designer",
+      "group": "Experience",
+      "default": "Freelance Graphic Designer"
+    },
+    {
+      "id": "f0249",
+      "type": "text",
+      "label": "Upwork — Remote, Full-time",
+      "group": "Experience",
+      "default": "Upwork — Remote, Full-time"
+    },
+    {
+      "id": "f0250",
+      "type": "text",
+      "label": "Scaled visual brand identity for 20+ international clients with a 4.9★",
+      "group": "Experience",
+      "default": "Scaled visual brand identity for 20+ international clients with a 4.9★ satisfaction rating, delivering branding, logo design, and social media graphics within 48-hour turnaround. Drove a 35% average engagement lift through targeted print and digital assets, and streamlined revision cycles by 40% with structured creative briefs and standardised file delivery."
+    },
+    {
+      "id": "f0251",
+      "type": "text",
+      "label": "Media Director",
+      "group": "Experience",
+      "default": "Media Director"
+    },
+    {
+      "id": "f0252",
+      "type": "text",
+      "label": "Association for Development",
+      "group": "Experience",
+      "default": "Association for Development "
+    },
+    {
+      "id": "f0253",
+      "type": "text",
+      "label": "Law — Part-time, Hybrid",
+      "group": "Experience",
+      "default": " Law — Part-time, Hybrid"
+    },
+    {
+      "id": "f0254",
+      "type": "text",
+      "label": "Designed a unified visual communication system — posters, banners, soc",
+      "group": "Experience",
+      "default": "Designed a unified visual communication system — posters, banners, social media graphics — rolled out across all ADL chapters, lifting event attendance by 28%. Built a reusable brand identity system and template library for the South Punjab chapter, cutting ad-hoc design requests by 50%."
+    },
+    {
+      "id": "f0255",
+      "type": "text",
+      "label": "Graphic Designer",
+      "group": "Experience",
+      "default": "Graphic Designer"
+    },
+    {
+      "id": "f0256",
+      "type": "text",
+      "label": "Dept. of Criminology, Islamia University of Bahawalpur — Part-time",
+      "group": "Experience",
+      "default": "Dept. of Criminology, Islamia University of Bahawalpur — Part-time"
+    },
+    {
+      "id": "f0257",
+      "type": "text",
+      "label": "Grew public awareness campaign reach by 60% designing infographics, ev",
+      "group": "Experience",
+      "default": "Grew public awareness campaign reach by 60% designing infographics, event collateral, and marketing materials for 10+ departmental initiatives. Produced publication-ready visual data presentations for 4 criminology research projects and delivered 100% of assigned work on schedule."
+    },
+    {
+      "id": "f0258",
+      "type": "text",
+      "label": "07 / YOUR NEXT GOOD IDEA STARTS HERE",
+      "group": "Contact",
+      "default": "07 / YOUR NEXT GOOD IDEA STARTS HERE"
+    },
+    {
+      "id": "f0259",
+      "type": "text",
+      "label": "Let’s make",
+      "group": "Contact",
+      "default": "Let’s make"
+    },
+    {
+      "id": "f0260",
+      "type": "text",
+      "label": "something",
+      "group": "Contact",
+      "default": "something "
+    },
+    {
+      "id": "f0261",
+      "type": "text",
+      "label": "matter.",
+      "group": "Contact",
+      "default": "matter."
+    },
+    {
+      "id": "f0262",
+      "type": "text",
+      "label": "Have a brand to build, a story to tell, or an idea to explore? Tell me",
+      "group": "Contact",
+      "default": "Have a brand to build, a story to tell, or an idea to explore? Tell me what you have in mind."
+    },
+    {
+      "id": "f0263",
+      "type": "text",
+      "label": "Copy email",
+      "group": "Contact",
+      "default": "Copy email "
+    },
+    {
+      "id": "f0264",
+      "type": "text",
+      "label": "Instagram ↗",
+      "group": "Contact",
+      "default": "Instagram ↗"
+    },
+    {
+      "id": "f0265",
+      "type": "text",
+      "label": "LinkedIn ↗",
+      "group": "Contact",
+      "default": "LinkedIn ↗"
+    },
+    {
+      "id": "f0266",
+      "type": "attribute",
+      "label": "Aria Label: Chat with Muhammad Taha on WhatsApp",
+      "group": "Contact",
+      "default": "Chat with Muhammad Taha on WhatsApp"
+    },
+    {
+      "id": "f0267",
+      "type": "text",
+      "label": "WhatsApp ↗",
+      "group": "Contact",
+      "default": "WhatsApp ↗"
+    },
+    {
+      "id": "f0268",
+      "type": "text",
+      "label": "Available for freelance work",
+      "group": "Contact",
+      "default": " Available for freelance work"
+    },
+    {
+      "id": "f0269",
+      "type": "text",
+      "label": "Punjab, Pakistan · Working across borders",
+      "group": "Contact",
+      "default": "Punjab, Pakistan · Working across borders"
+    },
+    {
+      "id": "f0270",
+      "type": "text",
+      "label": "A little about your project",
+      "group": "Contact",
+      "default": "A little about your project"
+    },
+    {
+      "id": "f0271",
+      "type": "text",
+      "label": "Your name",
+      "group": "Contact",
+      "default": "Your name"
+    },
+    {
+      "id": "f0272",
+      "type": "attribute",
+      "label": "Placeholder: Alex Taylor",
+      "group": "Contact",
+      "default": "Alex Taylor"
+    },
+    {
+      "id": "f0273",
+      "type": "text",
+      "label": "Your email",
+      "group": "Contact",
+      "default": "Your email"
+    },
+    {
+      "id": "f0274",
+      "type": "attribute",
+      "label": "Placeholder: alex@company.com",
+      "group": "Contact",
+      "default": "alex@company.com"
+    },
+    {
+      "id": "f0275",
+      "type": "text",
+      "label": "What do you need?",
+      "group": "Contact",
+      "default": "What do you need?"
+    },
+    {
+      "id": "f0276",
+      "type": "text",
+      "label": "Select a service",
+      "group": "Contact",
+      "default": "Select a service"
+    },
+    {
+      "id": "f0277",
+      "type": "text",
+      "label": "Brand Identity",
+      "group": "Contact",
+      "default": "Brand Identity"
+    },
+    {
+      "id": "f0278",
+      "type": "text",
+      "label": "Editorial",
+      "group": "Contact",
+      "default": "Editorial "
+    },
+    {
+      "id": "f0279",
+      "type": "text",
+      "label": "Book Design",
+      "group": "Contact",
+      "default": " Book Design"
+    },
+    {
+      "id": "f0280",
+      "type": "text",
+      "label": "Digital",
+      "group": "Contact",
+      "default": "Digital "
+    },
+    {
+      "id": "f0281",
+      "type": "text",
+      "label": "Social Media Design",
+      "group": "Contact",
+      "default": " Social Media Design"
+    },
+    {
+      "id": "f0282",
+      "type": "text",
+      "label": "Packaging Design",
+      "group": "Contact",
+      "default": "Packaging Design"
+    },
+    {
+      "id": "f0283",
+      "type": "text",
+      "label": "Marketing",
+      "group": "Contact",
+      "default": "Marketing "
+    },
+    {
+      "id": "f0284",
+      "type": "text",
+      "label": "Print Design",
+      "group": "Contact",
+      "default": " Print Design"
+    },
+    {
+      "id": "f0285",
+      "type": "text",
+      "label": "Thumbnail Design",
+      "group": "Contact",
+      "default": "Thumbnail Design"
+    },
+    {
+      "id": "f0286",
+      "type": "text",
+      "label": "Collaboration / Other",
+      "group": "Contact",
+      "default": "Collaboration / Other"
+    },
+    {
+      "id": "f0287",
+      "type": "text",
+      "label": "Budget / timeline",
+      "group": "Contact",
+      "default": "Budget / timeline"
+    },
+    {
+      "id": "f0288",
+      "type": "attribute",
+      "label": "Placeholder: Your budget and ideal launch date",
+      "group": "Contact",
+      "default": "Your budget and ideal launch date"
+    },
+    {
+      "id": "f0289",
+      "type": "text",
+      "label": "Tell me about your project",
+      "group": "Contact",
+      "default": "Tell me about your project"
+    },
+    {
+      "id": "f0290",
+      "type": "attribute",
+      "label": "Placeholder: The idea, the goals, and anything you’d like me to know",
+      "group": "Contact",
+      "default": "The idea, the goals, and anything you’d like me to know…"
+    },
+    {
+      "id": "f0291",
+      "type": "text",
+      "label": "Opens your project brief in WhatsApp. Review it and tap Send.",
+      "group": "Contact",
+      "default": "Opens your project brief in WhatsApp. Review it and tap Send."
+    },
+    {
+      "id": "f0292",
+      "type": "text",
+      "label": "Continue on WhatsApp",
+      "group": "Contact",
+      "default": "Continue on WhatsApp "
+    },
+    {
+      "id": "f0293",
+      "type": "text",
+      "label": "Muhammad Taha",
+      "group": "Footer",
+      "default": "Muhammad Taha"
+    },
+    {
+      "id": "f0294",
+      "type": "text",
+      "label": "Sr. Graphic Designer",
+      "group": "Footer",
+      "default": "Sr. Graphic Designer "
+    },
+    {
+      "id": "f0295",
+      "type": "text",
+      "label": "Branding Expert",
+      "group": "Footer",
+      "default": " Branding Expert"
+    },
+    {
+      "id": "f0296",
+      "type": "attribute",
+      "label": "Aria Label: Footer navigation",
+      "group": "Footer",
+      "default": "Footer navigation"
+    },
+    {
+      "id": "f0297",
+      "type": "text",
+      "label": "Work",
+      "group": "Footer",
+      "default": "Work"
+    },
+    {
+      "id": "f0298",
+      "type": "text",
+      "label": "About",
+      "group": "Footer",
+      "default": "About"
+    },
+    {
+      "id": "f0299",
+      "type": "text",
+      "label": "Services",
+      "group": "Footer",
+      "default": "Services"
+    },
+    {
+      "id": "f0300",
+      "type": "text",
+      "label": "Contact",
+      "group": "Footer",
+      "default": "Contact"
+    },
+    {
+      "id": "f0301",
+      "type": "text",
+      "label": "Back to top ↑",
+      "group": "Footer",
+      "default": "Back to top ↑"
+    },
+    {
+      "id": "f0302",
+      "type": "text",
+      "label": "© 2026 Muhammad Taha",
+      "group": "Footer",
+      "default": "© 2026 Muhammad Taha"
+    },
+    {
+      "id": "f0303",
+      "type": "text",
+      "label": "Brand identity · Editorial · Digital · Packaging",
+      "group": "Footer",
+      "default": "Brand identity · Editorial · Digital · Packaging"
+    },
+    {
+      "id": "f0304",
+      "type": "text",
+      "label": "Pause motion",
+      "group": "Footer",
+      "default": "Pause motion "
+    },
+    {
+      "id": "f0305",
+      "type": "text",
+      "label": "Designed with intention.",
+      "group": "Footer",
+      "default": "Designed with intention."
+    },
+    {
+      "id": "f0306",
+      "type": "text",
+      "label": "MUHAMMAD TAHA",
+      "group": "Case study 1",
+      "default": "MUHAMMAD TAHA "
+    },
+    {
+      "id": "f0307",
+      "type": "text",
+      "label": "/ SELECTED WORK",
+      "group": "Case study 1",
+      "default": "/ SELECTED WORK"
+    },
+    {
+      "id": "f0308",
+      "type": "text",
+      "label": "Close",
+      "group": "Case study 1",
+      "default": "Close "
+    },
+    {
+      "id": "f0309",
+      "type": "text",
+      "label": "Case study / 01",
+      "group": "Case study 1",
+      "default": "Case study / 01"
+    },
+    {
+      "id": "f0310",
+      "type": "text",
+      "label": "The Quran Scholars Hub",
+      "group": "Case study 1",
+      "default": "The Quran Scholars Hub"
+    },
+    {
+      "id": "f0311",
+      "type": "text",
+      "label": "Brand Identity · Digital Design · Publication Design",
+      "group": "Case study 1",
+      "default": "Brand Identity · Digital Design · Publication Design"
+    },
+    {
+      "id": "f0312",
+      "type": "text",
+      "label": "Role",
+      "group": "Case study 1",
+      "default": "Role"
+    },
+    {
+      "id": "f0313",
+      "type": "text",
+      "label": "Sole Designer",
+      "group": "Case study 1",
+      "default": "Sole Designer"
+    },
+    {
+      "id": "f0314",
+      "type": "text",
+      "label": "Duration",
+      "group": "Case study 1",
+      "default": "Duration"
+    },
+    {
+      "id": "f0315",
+      "type": "text",
+      "label": "5 Months",
+      "group": "Case study 1",
+      "default": "5 Months"
+    },
+    {
+      "id": "f0316",
+      "type": "text",
+      "label": "Type",
+      "group": "Case study 1",
+      "default": "Type"
+    },
+    {
+      "id": "f0317",
+      "type": "text",
+      "label": "Educational Institution",
+      "group": "Case study 1",
+      "default": "Educational Institution"
+    },
+    {
+      "id": "f0318",
+      "type": "image",
+      "label": "Illustrative blue and ivory educational brand stationery mockup",
+      "group": "Case study 1",
+      "default": "/images/f04acb2c8df39f667690.webp",
+      "altId": "f0319"
+    },
+    {
+      "id": "f0319",
+      "type": "imageAlt",
+      "label": "Image description",
+      "group": "Case study 1",
+      "default": "Illustrative blue and ivory educational brand stationery mockup",
+      "imageId": "f0318"
+    },
+    {
+      "id": "f0320",
+      "type": "text",
+      "label": "Illustrative preview — original project artwork will be added here.",
+      "group": "Case study 1",
+      "default": "Illustrative preview — original project artwork will be added here."
+    },
+    {
+      "id": "f0321",
+      "type": "text",
+      "label": "Overview",
+      "group": "Case study 1",
+      "default": "Overview"
+    },
+    {
+      "id": "f0322",
+      "type": "text",
+      "label": "The Quran Scholars Hub is an educational institution focused on Qurani",
+      "group": "Case study 1",
+      "default": "The Quran Scholars Hub is an educational institution focused on Quranic and Arabic studies. The project involved building its visual presence from the ground up, including its brand identity, digital communication, and publications. I worked as the sole designer throughout, developing the visual system and applying it across multiple touchpoints."
+    },
+    {
+      "id": "f0323",
+      "type": "text",
+      "label": "The Challenge",
+      "group": "Case study 1",
+      "default": "The Challenge"
+    },
+    {
+      "id": "f0324",
+      "type": "text",
+      "label": "The biggest challenge was creating a complete identity from scratch wh",
+      "group": "Case study 1",
+      "default": "The biggest challenge was creating a complete identity from scratch while establishing consistency across different areas of the institution"
+    },
+    {
+      "id": "f0325",
+      "type": "text",
+      "label": "s communication. With limited initial branding direction, the project ",
+      "group": "Case study 1",
+      "default": "s communication. With limited initial branding direction, the project required developing a clear visual language and maintaining it across social media, publications, and other brand applications."
+    },
+    {
+      "id": "f0326",
+      "type": "text",
+      "label": "The Approach",
+      "group": "Case study 1",
+      "default": "The Approach"
+    },
+    {
+      "id": "f0327",
+      "type": "text",
+      "label": "The identity was built around the institution",
+      "group": "Case study 1",
+      "default": "The identity was built around the institution"
+    },
+    {
+      "id": "f0328",
+      "type": "text",
+      "label": "s educational and Quranic purpose. The logo combines the Arabic letter",
+      "group": "Case study 1",
+      "default": "s educational and Quranic purpose. The logo combines the Arabic letter ق (Qaf) — creating a direct visual connection with the word Quran — with an open book representing learning, reading, and Quranic education."
+    },
+    {
+      "id": "f0329",
+      "type": "text",
+      "label": "Blue for trust",
+      "group": "Case study 1",
+      "default": "Blue for trust "
+    },
+    {
+      "id": "f0330",
+      "type": "text",
+      "label": "reliability. Gold for Islamic character",
+      "group": "Case study 1",
+      "default": " reliability. Gold for Islamic character "
+    },
+    {
+      "id": "f0331",
+      "type": "text",
+      "label": "a premium feel.",
+      "group": "Case study 1",
+      "default": " a premium feel."
+    },
+    {
+      "id": "f0332",
+      "type": "text",
+      "label": "Trustworthy · Educational · Modern · Islamic · Premium",
+      "group": "Case study 1",
+      "default": "Trustworthy · Educational · Modern · Islamic · Premium"
+    },
+    {
+      "id": "f0333",
+      "type": "text",
+      "label": "Brand System",
+      "group": "Case study 1",
+      "default": "Brand System"
+    },
+    {
+      "id": "f0334",
+      "type": "text",
+      "label": "Logo · Color Palette · Typography · Brand Guidelines · Social Media · ",
+      "group": "Case study 1",
+      "default": "Logo · Color Palette · Typography · Brand Guidelines · Social Media · Publications · Book Covers"
+    },
+    {
+      "id": "f0335",
+      "type": "text",
+      "label": "Publications",
+      "group": "Case study 1",
+      "default": "Publications"
+    },
+    {
+      "id": "f0336",
+      "type": "text",
+      "label": "The publication work required understanding the educational concepts f",
+      "group": "Case study 1",
+      "default": "The publication work required understanding the educational concepts first, then translating them into visuals that could appeal to children while maintaining a consistent brand identity. Illustrations, typography, colors, and visual structure were developed as part of the wider brand system."
+    },
+    {
+      "id": "f0337",
+      "type": "text",
+      "label": "Result",
+      "group": "Case study 1",
+      "default": "Result"
+    },
+    {
+      "id": "f0338",
+      "type": "text",
+      "label": "The project gave The Quran Scholars Hub a proper and consistent digita",
+      "group": "Case study 1",
+      "default": "The project gave The Quran Scholars Hub a proper and consistent digital presence , with a recognizable visual identity across its communication. The client response was extremely positive, and the work developed into a long-term design relationship."
+    },
+    {
+      "id": "f0339",
+      "type": "text",
+      "label": "Portfolio assets: Logo · Brand Identity · Brand Guidelines · Color Pal",
+      "group": "Case study 1",
+      "default": "Portfolio assets: Logo · Brand Identity · Brand Guidelines · Color Palette · Book Covers"
+    },
+    {
+      "id": "f0340",
+      "type": "text",
+      "label": "Actual book copies are not included in the portfolio because the publi",
+      "group": "Case study 1",
+      "default": "Actual book copies are not included in the portfolio because the publication copyrights belong to the client."
+    },
+    {
+      "id": "f0341",
+      "type": "text",
+      "label": "Discuss a similar project",
+      "group": "Case study 1",
+      "default": "Discuss a similar project "
+    },
+    {
+      "id": "f0342",
+      "type": "text",
+      "label": "Next case study →",
+      "group": "Case study 1",
+      "default": "Next case study →"
+    },
+    {
+      "id": "f0343",
+      "type": "text",
+      "label": "MUHAMMAD TAHA",
+      "group": "Case study 2",
+      "default": "MUHAMMAD TAHA "
+    },
+    {
+      "id": "f0344",
+      "type": "text",
+      "label": "/ SELECTED WORK",
+      "group": "Case study 2",
+      "default": "/ SELECTED WORK"
+    },
+    {
+      "id": "f0345",
+      "type": "text",
+      "label": "Close",
+      "group": "Case study 2",
+      "default": "Close "
+    },
+    {
+      "id": "f0346",
+      "type": "text",
+      "label": "Case study / 02",
+      "group": "Case study 2",
+      "default": "Case study / 02"
+    },
+    {
+      "id": "f0347",
+      "type": "text",
+      "label": "Journey to Jannah",
+      "group": "Case study 2",
+      "default": "Journey to Jannah"
+    },
+    {
+      "id": "f0348",
+      "type": "text",
+      "label": "Children",
+      "group": "Case study 2",
+      "default": "Children"
+    },
+    {
+      "id": "f0349",
+      "type": "text",
+      "label": "s Islamic Educational Book Series",
+      "group": "Case study 2",
+      "default": "s Islamic Educational Book Series"
+    },
+    {
+      "id": "f0350",
+      "type": "text",
+      "label": "Role",
+      "group": "Case study 2",
+      "default": "Role"
+    },
+    {
+      "id": "f0351",
+      "type": "text",
+      "label": "Complete Book Designer",
+      "group": "Case study 2",
+      "default": "Complete Book Designer"
+    },
+    {
+      "id": "f0352",
+      "type": "text",
+      "label": "Duration",
+      "group": "Case study 2",
+      "default": "Duration"
+    },
+    {
+      "id": "f0353",
+      "type": "text",
+      "label": "~4 Months",
+      "group": "Case study 2",
+      "default": "~4 Months"
+    },
+    {
+      "id": "f0354",
+      "type": "text",
+      "label": "Publications",
+      "group": "Case study 2",
+      "default": "Publications"
+    },
+    {
+      "id": "f0355",
+      "type": "text",
+      "label": "Four-Level Series",
+      "group": "Case study 2",
+      "default": "Four-Level Series"
+    },
+    {
+      "id": "f0356",
+      "type": "image",
+      "label": "Illustrative four-volume children’s educational book mockup",
+      "group": "Case study 2",
+      "default": "/images/a5b55f389452e2a036c7.webp",
+      "altId": "f0357"
+    },
+    {
+      "id": "f0357",
+      "type": "imageAlt",
+      "label": "Image description",
+      "group": "Case study 2",
+      "default": "Illustrative four-volume children’s educational book mockup",
+      "imageId": "f0356"
+    },
+    {
+      "id": "f0358",
+      "type": "text",
+      "label": "Illustrative preview — original project artwork will be added here.",
+      "group": "Case study 2",
+      "default": "Illustrative preview — original project artwork will be added here."
+    },
+    {
+      "id": "f0359",
+      "type": "text",
+      "label": "Overview",
+      "group": "Case study 2",
+      "default": "Overview"
+    },
+    {
+      "id": "f0360",
+      "type": "text",
+      "label": "Journey to Jannah is a four-level Islamic Studies book series created ",
+      "group": "Case study 2",
+      "default": "Journey to Jannah is a four-level Islamic Studies book series created for children, progressing through different learning levels. The goal was to make Islamic education more engaging and visually accessible while maintaining a consistent identity throughout the series. I handled the complete design — from covers and layouts to interior pages, illustrations, and character development."
+    },
+    {
+      "id": "f0361",
+      "type": "text",
+      "label": "The Challenge",
+      "group": "Case study 2",
+      "default": "The Challenge"
+    },
+    {
+      "id": "f0362",
+      "type": "text",
+      "label": "Designing for children requires a careful balance: the books needed to",
+      "group": "Case study 2",
+      "default": "Designing for children requires a careful balance: the books needed to communicate educational content clearly without becoming visually boring or overwhelming. Another major challenge was developing the illustration direction, creating the recurring character, and establishing a page layout that could work consistently across a multi-level series."
+    },
+    {
+      "id": "f0363",
+      "type": "text",
+      "label": "Design Direction",
+      "group": "Case study 2",
+      "default": "Design Direction"
+    },
+    {
+      "id": "f0364",
+      "type": "text",
+      "label": "Make learning visually engaging without compromising clarity.",
+      "group": "Case study 2",
+      "default": "Make learning visually engaging without compromising clarity."
+    },
+    {
+      "id": "f0365",
+      "type": "text",
+      "label": "Colors, typography, illustrations, and visual storytelling were select",
+      "group": "Case study 2",
+      "default": "Colors, typography, illustrations, and visual storytelling were selected specifically to attract children and keep them engaged with the content."
+    },
+    {
+      "id": "f0366",
+      "type": "text",
+      "label": "Character System",
+      "group": "Case study 2",
+      "default": "Character System"
+    },
+    {
+      "id": "f0367",
+      "type": "text",
+      "label": "A recurring illustrated character was developed as part of the series.",
+      "group": "Case study 2",
+      "default": "A recurring illustrated character was developed as part of the series. The character visually explains different concepts and gives the books a recognizable personality — maintained across all four levels to strengthen consistency. Its clothing colors were adapted across the different books, allowing each level its own variation while remaining clearly connected to the series."
+    },
+    {
+      "id": "f0368",
+      "type": "text",
+      "label": "Series Consistency",
+      "group": "Case study 2",
+      "default": "Series Consistency"
+    },
+    {
+      "id": "f0369",
+      "type": "text",
+      "label": "Instead of completely redesigning every level, the core visual system ",
+      "group": "Case study 2",
+      "default": "Instead of completely redesigning every level, the core visual system remained consistent. Layouts stayed structured and spacious, while selected elements — colors, illustrations, character clothing — were adjusted between levels, creating enough variation to distinguish each publication while keeping the series visually connected."
+    },
+    {
+      "id": "f0370",
+      "type": "text",
+      "label": "Result",
+      "group": "Case study 2",
+      "default": "Result"
+    },
+    {
+      "id": "f0371",
+      "type": "text",
+      "label": "The final outcome was a complete four-level book series, with covers, ",
+      "group": "Case study 2",
+      "default": "The final outcome was a complete four-level book series, with covers, interior pages, layouts, illustrations, and a consistent visual system. The client responded very positively after seeing the completed publications."
+    },
+    {
+      "id": "f0372",
+      "type": "text",
+      "label": "Discuss a similar project",
+      "group": "Case study 2",
+      "default": "Discuss a similar project "
+    },
+    {
+      "id": "f0373",
+      "type": "text",
+      "label": "Next case study →",
+      "group": "Case study 2",
+      "default": "Next case study →"
+    },
+    {
+      "id": "f0374",
+      "type": "text",
+      "label": "MUHAMMAD TAHA",
+      "group": "Case study 3",
+      "default": "MUHAMMAD TAHA "
+    },
+    {
+      "id": "f0375",
+      "type": "text",
+      "label": "/ SELECTED WORK",
+      "group": "Case study 3",
+      "default": "/ SELECTED WORK"
+    },
+    {
+      "id": "f0376",
+      "type": "text",
+      "label": "Close",
+      "group": "Case study 3",
+      "default": "Close "
+    },
+    {
+      "id": "f0377",
+      "type": "text",
+      "label": "Case study / 03",
+      "group": "Case study 3",
+      "default": "Case study / 03"
+    },
+    {
+      "id": "f0378",
+      "type": "text",
+      "label": "The Path to the Arabic Language",
+      "group": "Case study 3",
+      "default": "The Path to the Arabic Language"
+    },
+    {
+      "id": "f0379",
+      "type": "text",
+      "label": "Educational Editorial Design",
+      "group": "Case study 3",
+      "default": "Educational Editorial Design"
+    },
+    {
+      "id": "f0380",
+      "type": "text",
+      "label": "Role",
+      "group": "Case study 3",
+      "default": "Role"
+    },
+    {
+      "id": "f0381",
+      "type": "text",
+      "label": "Complete Book Designer",
+      "group": "Case study 3",
+      "default": "Complete Book Designer"
+    },
+    {
+      "id": "f0382",
+      "type": "text",
+      "label": "Duration",
+      "group": "Case study 3",
+      "default": "Duration"
+    },
+    {
+      "id": "f0383",
+      "type": "text",
+      "label": "~1.5 Months",
+      "group": "Case study 3",
+      "default": "~1.5 Months"
+    },
+    {
+      "id": "f0384",
+      "type": "text",
+      "label": "Audience",
+      "group": "Case study 3",
+      "default": "Audience"
+    },
+    {
+      "id": "f0385",
+      "type": "text",
+      "label": "UK",
+      "group": "Case study 3",
+      "default": "UK "
+    },
+    {
+      "id": "f0386",
+      "type": "text",
+      "label": "US Learners",
+      "group": "Case study 3",
+      "default": " US Learners"
+    },
+    {
+      "id": "f0387",
+      "type": "image",
+      "label": "Illustrative Arabic learning book cover mockups",
+      "group": "Case study 3",
+      "default": "/images/2f4cc1c7ed786573aad5.webp",
+      "altId": "f0388"
+    },
+    {
+      "id": "f0388",
+      "type": "imageAlt",
+      "label": "Image description",
+      "group": "Case study 3",
+      "default": "Illustrative Arabic learning book cover mockups",
+      "imageId": "f0387"
+    },
+    {
+      "id": "f0389",
+      "type": "text",
+      "label": "Illustrative preview — original project artwork will be added here.",
+      "group": "Case study 3",
+      "default": "Illustrative preview — original project artwork will be added here."
+    },
+    {
+      "id": "f0390",
+      "type": "text",
+      "label": "Overview",
+      "group": "Case study 3",
+      "default": "Overview"
+    },
+    {
+      "id": "f0391",
+      "type": "text",
+      "label": "The Path to the Arabic Language is an educational publication project ",
+      "group": "Case study 3",
+      "default": "The Path to the Arabic Language is an educational publication project developed for The Quran Scholars Hub"
+    },
+    {
+      "id": "f0392",
+      "type": "text",
+      "label": "s international audience, including two publications: Arabic Conversat",
+      "group": "Case study 3",
+      "default": "s international audience, including two publications: Arabic Conversations , a practical book built around everyday dialogue, and Arabic Grammar , a structured publication covering foundational through advanced concepts."
+    },
+    {
+      "id": "f0393",
+      "type": "text",
+      "label": "Design Direction",
+      "group": "Case study 3",
+      "default": "Design Direction"
+    },
+    {
+      "id": "f0394",
+      "type": "text",
+      "label": "Unlike Journey to Jannah, these publications were designed for relativ",
+      "group": "Case study 3",
+      "default": "Unlike Journey to Jannah, these publications were designed for relatively older learners. The approach was intentionally minimal, professional, and easy to read — focused on typography, structure, readability, consistency, and color rather than unnecessary visual complexity."
+    },
+    {
+      "id": "f0395",
+      "type": "text",
+      "label": "Color",
+      "group": "Case study 3",
+      "default": "Color "
+    },
+    {
+      "id": "f0396",
+      "type": "text",
+      "label": "Branding",
+      "group": "Case study 3",
+      "default": " Branding"
+    },
+    {
+      "id": "f0397",
+      "type": "text",
+      "label": "The original Quran Scholars Hub brand colors were integrated into the ",
+      "group": "Case study 3",
+      "default": "The original Quran Scholars Hub brand colors were integrated into the publications, maintaining visual consistency with the wider institution while giving the books a professional and attractive appearance."
+    },
+    {
+      "id": "f0398",
+      "type": "text",
+      "label": "Typography",
+      "group": "Case study 3",
+      "default": "Typography"
+    },
+    {
+      "id": "f0399",
+      "type": "text",
+      "label": "Typography was kept deliberately minimal, making the information easy ",
+      "group": "Case study 3",
+      "default": "Typography was kept deliberately minimal, making the information easy to read and understand without distracting visual elements. For the Conversations publication in particular, the design let the dialogue and educational content remain the primary visual focus."
+    },
+    {
+      "id": "f0400",
+      "type": "text",
+      "label": "Arabic Typography",
+      "group": "Case study 3",
+      "default": "Arabic Typography"
+    },
+    {
+      "id": "f0401",
+      "type": "text",
+      "label": "One of the most demanding aspects of the project was working with Arab",
+      "group": "Case study 3",
+      "default": "One of the most demanding aspects of the project was working with Arabic text — careful attention to letterforms, spacing, harakat, i"
+    },
+    {
+      "id": "f0402",
+      "type": "text",
+      "label": "raab, text fitting, and readability. Organizing Arabic content within ",
+      "group": "Case study 3",
+      "default": "raab, text fitting, and readability. Organizing Arabic content within fixed design spaces while maintaining accuracy and readability became a key part of the process."
+    },
+    {
+      "id": "f0403",
+      "type": "text",
+      "label": "Result",
+      "group": "Case study 3",
+      "default": "Result"
+    },
+    {
+      "id": "f0404",
+      "type": "text",
+      "label": "The final publications provided a clean, structured, and consistent vi",
+      "group": "Case study 3",
+      "default": "The final publications provided a clean, structured, and consistent visual system for Arabic learning. The client responded very positively and highly appreciated the finished work."
+    },
+    {
+      "id": "f0405",
+      "type": "text",
+      "label": "Discuss a similar project",
+      "group": "Case study 3",
+      "default": "Discuss a similar project "
+    },
+    {
+      "id": "f0406",
+      "type": "text",
+      "label": "Next case study →",
+      "group": "Case study 3",
+      "default": "Next case study →"
+    },
+    {
+      "id": "f0407",
+      "type": "text",
+      "label": "MUHAMMAD TAHA",
+      "group": "Case study 4",
+      "default": "MUHAMMAD TAHA "
+    },
+    {
+      "id": "f0408",
+      "type": "text",
+      "label": "/ SELECTED WORK",
+      "group": "Case study 4",
+      "default": "/ SELECTED WORK"
+    },
+    {
+      "id": "f0409",
+      "type": "text",
+      "label": "Close",
+      "group": "Case study 4",
+      "default": "Close "
+    },
+    {
+      "id": "f0410",
+      "type": "text",
+      "label": "Case study / 04",
+      "group": "Case study 4",
+      "default": "Case study / 04"
+    },
+    {
+      "id": "f0411",
+      "type": "text",
+      "label": "The Broken Egoist",
+      "group": "Case study 4",
+      "default": "The Broken Egoist"
+    },
+    {
+      "id": "f0412",
+      "type": "text",
+      "label": "Biographical Book Design",
+      "group": "Case study 4",
+      "default": "Biographical Book Design"
+    },
+    {
+      "id": "f0413",
+      "type": "text",
+      "label": "Role",
+      "group": "Case study 4",
+      "default": "Role"
+    },
+    {
+      "id": "f0414",
+      "type": "text",
+      "label": "Complete Book Designer",
+      "group": "Case study 4",
+      "default": "Complete Book Designer"
+    },
+    {
+      "id": "f0415",
+      "type": "text",
+      "label": "Duration",
+      "group": "Case study 4",
+      "default": "Duration"
+    },
+    {
+      "id": "f0416",
+      "type": "text",
+      "label": "~1 Month",
+      "group": "Case study 4",
+      "default": "~1 Month"
+    },
+    {
+      "id": "f0417",
+      "type": "text",
+      "label": "Type",
+      "group": "Case study 4",
+      "default": "Type"
+    },
+    {
+      "id": "f0418",
+      "type": "text",
+      "label": "Personal Client Project",
+      "group": "Case study 4",
+      "default": "Personal Client Project"
+    },
+    {
+      "id": "f0419",
+      "type": "image",
+      "label": "Illustrative literary book cover and interior mockup",
+      "group": "Case study 4",
+      "default": "/images/bfbc52f528879b2e4d12.webp",
+      "altId": "f0420"
+    },
+    {
+      "id": "f0420",
+      "type": "imageAlt",
+      "label": "Image description",
+      "group": "Case study 4",
+      "default": "Illustrative literary book cover and interior mockup",
+      "imageId": "f0419"
+    },
+    {
+      "id": "f0421",
+      "type": "text",
+      "label": "Illustrative preview — original project artwork will be added here.",
+      "group": "Case study 4",
+      "default": "Illustrative preview — original project artwork will be added here."
+    },
+    {
+      "id": "f0422",
+      "type": "text",
+      "label": "Overview",
+      "group": "Case study 4",
+      "default": "Overview"
+    },
+    {
+      "id": "f0423",
+      "type": "text",
+      "label": "The Broken Egoist is a biographical book based on a real-life story. T",
+      "group": "Case study 4",
+      "default": "The Broken Egoist is a biographical book based on a real-life story. The project was commissioned through a personal client connection and required the complete visual development of the book."
+    },
+    {
+      "id": "f0424",
+      "type": "text",
+      "label": "My Role",
+      "group": "Case study 4",
+      "default": "My Role"
+    },
+    {
+      "id": "f0425",
+      "type": "text",
+      "label": "Proofreading · Layout · Cover Design · Interior Design · Typography · ",
+      "group": "Case study 4",
+      "default": "Proofreading · Layout · Cover Design · Interior Design · Typography · Complete Book Formatting"
+    },
+    {
+      "id": "f0426",
+      "type": "text",
+      "label": "The Approach",
+      "group": "Case study 4",
+      "default": "The Approach"
+    },
+    {
+      "id": "f0427",
+      "type": "text",
+      "label": "The main focus was creating a consistent editorial flow that allowed t",
+      "group": "Case study 4",
+      "default": "The main focus was creating a consistent editorial flow that allowed the story to move naturally through the book. The design needed to support the narrative rather than compete with it, keeping the structure clear and the reading experience cohesive."
+    },
+    {
+      "id": "f0428",
+      "type": "text",
+      "label": "Unique Element",
+      "group": "Case study 4",
+      "default": "Unique Element"
+    },
+    {
+      "id": "f0429",
+      "type": "text",
+      "label": "One of the distinctive elements of the publication was an Urdu Ghazal ",
+      "group": "Case study 4",
+      "default": "One of the distinctive elements of the publication was an Urdu Ghazal included at the end of the book at the client"
+    },
+    {
+      "id": "f0430",
+      "type": "text",
+      "label": "s request — adding a literary dimension and requiring the visual treat",
+      "group": "Case study 4",
+      "default": "s request — adding a literary dimension and requiring the visual treatment to transition naturally from the main narrative into the Urdu poetic section."
+    },
+    {
+      "id": "f0431",
+      "type": "text",
+      "label": "Result",
+      "group": "Case study 4",
+      "default": "Result"
+    },
+    {
+      "id": "f0432",
+      "type": "text",
+      "label": "The complete book was designed and delivered to the client, including ",
+      "group": "Case study 4",
+      "default": "The complete book was designed and delivered to the client, including its cover, interior structure, typography, and final layout. The client response was exceptionally positive."
+    },
+    {
+      "id": "f0433",
+      "type": "text",
+      "label": "Discuss a similar project",
+      "group": "Case study 4",
+      "default": "Discuss a similar project "
+    },
+    {
+      "id": "f0434",
+      "type": "text",
+      "label": "Next case study →",
+      "group": "Case study 4",
+      "default": "Next case study →"
+    },
+    {
+      "id": "f0435",
+      "type": "text",
+      "label": "MORE WORK",
+      "group": "Work detail overlay",
+      "default": "MORE WORK"
+    },
+    {
+      "id": "f0436",
+      "type": "text",
+      "label": "Close",
+      "group": "Work detail overlay",
+      "default": "Close "
+    },
+    {
+      "id": "f0437",
+      "type": "image",
+      "label": "Illustrative design preview",
+      "group": "Work detail overlay",
+      "default": "/images/167efb22704d442d6752.webp",
+      "altId": "f0438"
+    },
+    {
+      "id": "f0438",
+      "type": "imageAlt",
+      "label": "Image description",
+      "group": "Work detail overlay",
+      "default": "Illustrative design preview",
+      "imageId": "f0437"
+    },
+    {
+      "id": "f0439",
+      "type": "text",
+      "label": "Illustrative preview — original project artwork will be added here.",
+      "group": "Work detail overlay",
+      "default": "Illustrative preview — original project artwork will be added here."
+    },
+    {
+      "id": "f0440",
+      "type": "text",
+      "label": "Discuss a similar project",
+      "group": "Work detail overlay",
+      "default": "Discuss a similar project "
+    }
+  ],
+  "contact": {
+    "email": "graphicsbytaha@gmail.com",
+    "whatsapp": "923709042954",
+    "displayNumber": "+92 370 9042954",
+    "instagram": "https://instagram.com/GraphicsByTaha",
+    "linkedin": "https://pk.linkedin.com/in/graphicsbytaha"
+  }
+}
